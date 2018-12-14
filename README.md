@@ -19,6 +19,6 @@ save the search results for them to review later if so desired (account required
 
 
 
-#Authors
+# Authors
 
 [Daniel Frey](https://github.com/fncreative) | [Roger Huba](https://github.com/rogerhuba) | [Matthew Brown](https://github.com/mthwbrwn)
